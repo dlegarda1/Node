@@ -3,7 +3,9 @@ function saludar(nombre){
 }
 
 function sumar(a, b){
+    console.log(a+b);
     return a + b;
+
 }
 
 const persona=[{"name":"Juan", "lname":"Perez", "age":30}, {"name":"Maria", "lname":"Gomez", "age":25}, {"name":"Carlos", "lname":"Lopez", "age":40}];
